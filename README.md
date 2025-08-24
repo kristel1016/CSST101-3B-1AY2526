@@ -1,2 +1,2 @@
 # CSST101-3B-1AY2526
-JUNGKOOK
+Advanced Presentation and Reasoning (IS 101) focuses on developing strong communication skills by teaching students how to present ideas clearly, logically, and persuasively. The subject trains learners to analyze information, build structured arguments, and support them with reasoning and evidence. It also helps improve critical thinking and confidence in delivering presentations, which are essential for both academic and professional settings.

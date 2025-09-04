@@ -1,0 +1,28 @@
+Timestamp,Student Name,Rule,Result
+2025-09-04 07:06:32,jk,Login Rule,Access granted 
+2025-09-04 07:09:15,jk,Bonus Rule,Satisfied 
+2025-09-04 07:09:51,jk,Grading Rule,Satisfied 
+2025-09-04 07:12:01,Jungkook,Attendance Rule,Satisfied 
+2025-09-04 07:12:16,Jungkook,Grading Rule,Satisfied 
+2025-09-04 07:12:32,Jungkook,Login Rule,Access granted 
+2025-09-04 07:12:53,Jungkook,Bonus Rule,Satisfied 
+2025-09-04 07:22:17,axii marie,Attendance Rule,Satisfied 
+2025-09-04 07:22:27,axii marie,Grading Rule,Satisfied 
+2025-09-04 07:23:27,axii marie,Login Rule,Access granted 
+2025-09-04 07:24:00,axii marie,Bonus Rule,Satisfied 
+2025-09-04 07:24:14,axii marie,Library Borrowing Rule,Allowed to borrow 
+2025-09-04 07:35:09,kt,Attendance Rule,Satisfied 
+2025-09-04 07:36:41,kim,Attendance Rule,Violated 
+2025-09-04 07:37:08,kim,Grading Rule,Satisfied 
+2025-09-04 07:37:25,kim,Grading Rule,Satisfied 
+2025-09-04 07:50:54,jjk,Grading Rule,Satisfied
+2025-09-04 07:56:25,jjk,Attendance Rule,Violated 
+2025-09-04 07:56:37,jjk,Grading Rule,Satisfied
+2025-09-04 07:57:12,jk,Grading Rule,Violated
+2025-09-04 07:58:09,jk,Login Rule,Access granted 
+2025-09-04 07:58:28,jk,Login Rule,Access granted 
+2025-09-04 08:04:57,jjk,Login Rule,Access denied
+2025-09-04 08:06:36,jjk,Bonus Rule,Satisfied 
+2025-09-04 08:08:03,jjk,Library Borrowing Rule,Allowed to borrow 
+2025-09-04 08:14:42,jjk,Library Borrowing Rule,Allowed to borrow 
+2025-09-04 08:16:03,jjk,Library Borrowing Rule,Not allowed
